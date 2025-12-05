@@ -1,0 +1,15 @@
+# 1. Uygulama Veri Dosyası
+# Programın çalışması sırasında oluşan ve her kullanıcıda farklı olan kayıt dosyası.
+gorev_listem.txt
+
+# 2. Python Geçici Dosyaları
+# Python'ın derlediği ve otomatik olarak oluşturduğu dosyalar.
+__pycache__/
+*.pyc
+*.pyo
+
+# 3. İşletim Sistemi ve IDE Ayar Dosyaları
+# Kişisel VS Code veya işletim sistemi ayarlarını içeren dosyalar.
+.DS_Store
+.vscode/
+.idea/
